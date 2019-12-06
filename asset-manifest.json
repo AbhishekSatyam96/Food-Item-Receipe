@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.985657b6.chunk.css",
-    "main.js": "/static/js/main.0de210d5.chunk.js",
-    "main.js.map": "/static/js/main.0de210d5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0ebeed79.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0ebeed79.js.map",
-    "static/js/2.41100649.chunk.js": "/static/js/2.41100649.chunk.js",
-    "static/js/2.41100649.chunk.js.map": "/static/js/2.41100649.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4eb590943ae8ff13944e56e31b99a546.js": "/precache-manifest.4eb590943ae8ff13944e56e31b99a546.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.985657b6.chunk.css.map": "/static/css/main.985657b6.chunk.css.map"
+    "main.css": "/Food-Item-Receipe1/./static/css/main.985657b6.chunk.css",
+    "main.js": "/Food-Item-Receipe1/./static/js/main.0de210d5.chunk.js",
+    "main.js.map": "/Food-Item-Receipe1/./static/js/main.0de210d5.chunk.js.map",
+    "runtime-main.js": "/Food-Item-Receipe1/./static/js/runtime-main.cd2303e0.js",
+    "runtime-main.js.map": "/Food-Item-Receipe1/./static/js/runtime-main.cd2303e0.js.map",
+    "static/js/2.41100649.chunk.js": "/Food-Item-Receipe1/./static/js/2.41100649.chunk.js",
+    "static/js/2.41100649.chunk.js.map": "/Food-Item-Receipe1/./static/js/2.41100649.chunk.js.map",
+    "index.html": "/Food-Item-Receipe1/./index.html",
+    "precache-manifest.cbb4c7b5986e2ac470d7eacc4c80aaf4.js": "/Food-Item-Receipe1/./precache-manifest.cbb4c7b5986e2ac470d7eacc4c80aaf4.js",
+    "service-worker.js": "/Food-Item-Receipe1/./service-worker.js",
+    "static/css/main.985657b6.chunk.css.map": "/Food-Item-Receipe1/./static/css/main.985657b6.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ebeed79.js",
+    "static/js/runtime-main.cd2303e0.js",
     "static/js/2.41100649.chunk.js",
     "static/css/main.985657b6.chunk.css",
     "static/js/main.0de210d5.chunk.js"

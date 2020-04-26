@@ -1,1 +1,1 @@
-Created a wep-app using ReactJS, where user can search recipe of any food items.
+Created a web-app using ReactJS, where users can search the recipe of any food items.

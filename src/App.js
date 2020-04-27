@@ -33,7 +33,8 @@ const App = () => {
     }
     return (
         <div className='App'>
-            <h1 style={{ textAlign: 'center' }}> Food Items Recipe </h1>
+            <h1 style={{textAlign: 'center', color: 'red'}}>A new Startup for Simran</h1>
+            <h2 style={{ textAlign: 'center' }}> Food Items Recipe </h2>
             <h3 style={{ textAlign: 'center' }}>You can search any food items here to get their recipe....</h3>
             <form onSubmit={getSearch} className='search-form'>
                 <input className='search-bar' type='text' value={search} onChange={updateSearch}

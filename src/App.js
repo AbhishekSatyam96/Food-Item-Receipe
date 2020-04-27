@@ -15,7 +15,7 @@ const App = () => {
         const data = await response.json();
         setReceipe(data.hits);
         /* console.log(data.hits);
-         
+
          const len = data.hits.length;
          console.log(len);
          if(len==0){
@@ -34,7 +34,7 @@ const App = () => {
     return (
         <div className='App'>
             <h1 style={{ textAlign: 'center' }}> Food Items Recipe </h1>
-            <h3 style={{ textAlign: 'center' }}>You can search any food items here to get their recipe </h3>
+            <h3 style={{ textAlign: 'center' }}>You can search any food items here to get their recipe....</h3>
             <form onSubmit={getSearch} className='search-form'>
                 <input className='search-bar' type='text' value={search} onChange={updateSearch}
                     placeholder="Type here food items... (ex-chicken,.. etc)" />
